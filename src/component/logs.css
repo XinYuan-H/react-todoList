@@ -1,0 +1,12 @@
+.logs{
+    background-color: #EAE2B7;
+    margin: 50px auto;
+    padding: 20px;   
+    width: 800px;
+}
+
+.no-data{
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}

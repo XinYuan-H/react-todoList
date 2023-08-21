@@ -1,0 +1,38 @@
+.item{
+    display: flex;
+    margin: 6px 16px;
+    padding: 6px;
+    background-color: #FCBF49;
+    border-radius: 20px;
+    box-shadow: 0 0 3px black;
+}
+
+.content{
+    flex: auto;
+    
+    border-radius: 20px;
+    margin: 0 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.desc{
+    font-size: 16px;
+}
+
+.time{
+    font-size: 16px;
+    color: #d62828;
+}
+
+.delete{
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.delete:hover{
+    color:#d62828
+}
